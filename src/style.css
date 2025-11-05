@@ -46,6 +46,17 @@ main {
     color: #FAFAF8;
 }
 
+.add-ingredient-form button:hover {
+    white-space: nowrap;
+    font-family: 'Inter', sans-serif;
+    border-radius: 6px;
+    border: none;
+    background-color: #30302e;
+    color: #FAFAF8;
+    cursor: pointer;
+}
+
+
 .add-ingredient-form>input {
     border-radius: 6px;
     border: 1px solid #D1D5DB;
